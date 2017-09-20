@@ -1,0 +1,7 @@
+<%= @events.title %>
+
+<div><%= @events.tag.split(",").to_s %></div>
+<div><%= @events.coin %></div>
+<div><%= @events.view %></div>
+
+<p><%= link_to 'Back to index', :controller => 'events', :action => 'index' %></p>

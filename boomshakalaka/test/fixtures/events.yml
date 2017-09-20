@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  tag: MyText
+  coin: 1
+  view: 1
+  favorite: 1
+
+two:
+  title: MyText
+  tag: MyText
+  coin: 1
+  view: 1
+  favorite: 1
